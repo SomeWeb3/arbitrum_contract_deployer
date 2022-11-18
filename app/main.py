@@ -1,3 +1,7 @@
+"""
+Dev: https://t.me/python_web3
+"""
+
 import json
 from pathlib import Path
 from random import randint, uniform
