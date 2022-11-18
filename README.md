@@ -1,5 +1,5 @@
 # Arbitrum smart contracts deployer | Dev: [@python_web3](https://t.me/python_web3)
-Прокачивает кошельки на сети arbitrum, путём деплоя контракта, его пополнения и вывода средств.
+Прокачивает кошельки в сети arbitrum, путём деплоя контракта, его пополнения и вывода средств.
 
 ## Установка
 1. [Скачиваем](https://www.python.org/downloads/) и устанавливаем Python.  
